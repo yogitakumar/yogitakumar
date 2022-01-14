@@ -1,9 +1,9 @@
 ### Hi there 👋
 # I'm @yogitakumar
 
-- 🌱 I’m currently working on React, JavaScript, HTML, CSS, SaaS, Flutter
+- 🌱 I’m currently working on Flutter, React, JavaScript, HTML, CSS, C#, Python
 
-- 💻 I'm currently working at Tech Returners
+- 💻 I'm currently working as Mobile App Developer
 
 - 📫 How to reach me : helloyogita@gmail.com
 
