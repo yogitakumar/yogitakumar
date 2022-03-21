@@ -1,9 +1,8 @@
 ### Hi there 👋
 # I'm @yogitakumar
 
-- 🌱 I’m currently working on Flutter, React, JavaScript, HTML, CSS, C#, Python
 
-- 💻 I'm currently working as Mobile App Developer
+- 💻 I'm Flutter Mobile App Developer
 
 - 📫 How to reach me : helloyogita@gmail.com
 
