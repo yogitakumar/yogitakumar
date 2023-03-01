@@ -1,6 +1,11 @@
 ### Hi there 👋
 # I'm @yogitakumar
 
+- Gogole Developer Expert(Flutter, Dart)
+ https://developers.google.com/community/experts/directory/profile/profile-yogita-kumar
+
+- Women Techmakers Ambassador
+https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9fc/yogita_kumar
 
 - 💻 I'm Flutter Mobile App Developer
 
