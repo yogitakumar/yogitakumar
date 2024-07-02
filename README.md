@@ -7,7 +7,7 @@
 - Women Techmakers Ambassador
 https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9fc/yogita_kumar
 
-- 💻 I'm Flutter Mobile App Developer
+- 💻 I'm Mobile App Developer
 
 - 😄 Pronouns : she/her
  
