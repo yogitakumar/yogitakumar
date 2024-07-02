@@ -9,8 +9,6 @@ https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9fc/yo
 
 - 💻 I'm Flutter Mobile App Developer
 
-- 📫 How to reach me : helloyogita@gmail.com
-
 - 😄 Pronouns : she/her
  
 - About me : I love building amazing applications, share open source project @[Github](https://github.com/yogitakumar), write blog at @[Medium](https://helloyogita.medium.com/)
